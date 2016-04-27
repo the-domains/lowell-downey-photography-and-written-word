@@ -1,0 +1,28 @@
+name: 'Lowell Downey Photography & Written word'
+favicon: null
+layout_spectrum: 0.9461928277742118
+typography_spectrum: 0.7834273118060082
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2642710981890559
+  lightness: 0.9489679425023496
+  saturation: 0.8097938701976091
+  rhythmicContrast: 0.6654356878716499
+purpose: []
