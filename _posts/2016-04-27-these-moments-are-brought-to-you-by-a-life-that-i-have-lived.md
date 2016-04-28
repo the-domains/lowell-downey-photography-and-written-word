@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Art of Seeing is my way of being present, awakening the senses, living within the poetics and creativity of the moment and to share with the world - be they family, friends or clients - a perspective I have earned and learned to see by stumbling, falling and picking myself up again. Let us be kind and compassionate in all that we do. I hope my offering is received well by you, my friends and companions. '
-datePublished: '2016-04-28T15:48:31.729Z'
-dateModified: '2016-04-28T15:48:24.909Z'
+datePublished: '2016-04-28T19:05:46.646Z'
+dateModified: '2016-04-28T18:33:04.463Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-27-these-moments-are-brought-to-you-by-a-life-that-i-have-lived.md
