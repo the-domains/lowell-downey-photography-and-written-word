@@ -1,4 +1,4 @@
-name: 'Lowell Downey Photography & Written word'
+name: 'The Art of Seeing and Being- Lowell Downey Photography & Written word'
 favicon: null
 layout_spectrum: 0.91296
 typography_spectrum: 0.92391
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#2c2b29'
-    - '#7e7e76'
-    - '#bdbfb1'
-  brandStrength: 0.25
+    - '#aeb9c9'
+    - '#8ba4c6'
+    - '#4d7e14'
+    - '#205203'
+    - '#7bac40'
+  brandStrength: 0.5625
   lightness: 0.625
   saturation: 0.75
   rhythmicContrast: 1
